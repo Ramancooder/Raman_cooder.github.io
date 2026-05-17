@@ -2,8 +2,26 @@
 
 ![Alt Text](NEW.png.png)
 
-## Introduction 
-I am Raman kumar. I am from dist. fazilka. My hobby is to play cricket,and listening songs. I have taken admission in gndec college branch CSE.I have keen interest in coding.
+# Hi, I'm Raman Kumar 👋
+
+🎓 Second Year CSE Student at Guru Nanak Dev Engineering College, Ludhiana  
+💻 Interested in Python, Machine Learning, and Software Development  
+📚 Currently learning Data Structures and Algorithms
+
+## Skills
+- Python
+- C++
+- NumPy
+- Pandas
+- Scikit-learn
+- Git & GitHub
+
+## Projects
+- Spam Mail Detection using ML
+
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/raman-kumar-089757319
+- Email: ramanbhobhria@gmail.com
 
 ## Excel certificate 
 ![](Certificate.jpg)
